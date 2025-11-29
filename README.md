@@ -110,7 +110,7 @@ Upload bar chart image to `images/feature_importance.png`.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/saudi-used-car-prediction.git
+git clone https://github.com/hqee/saudi-cars-price-regression.git
 cd saudi-used-car-prediction
 ```
 
