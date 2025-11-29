@@ -139,6 +139,6 @@ notebooks/Saudi_Car_Price_Prediction.ipynb
 
 ## Author
 
-**Haqi Dhiya' Firmana** - Github : https://github.com/hqee
-**Abida Dina Kamila** - Github : https://github.com/dinss14
-**Daniel Tirta Pratama** - Github : https://github.com/vladimirtirta
+- **Haqi Dhiya' Firmana** - Github : https://github.com/hqee
+- **Abida Dina Kamila** - Github : https://github.com/dinss14
+- **Daniel Tirta Pratama** - Github : https://github.com/vladimirtirta
