@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts
+*.sav
+*.pkl
+*.bin
+
+# CatBoost metadata folder
+catboost_info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
