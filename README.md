@@ -1,11 +1,11 @@
-# 🚗 Saudi Used Car Price Prediction
+# Saudi Used Car Price Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![CatBoost](https://img.shields.io/badge/Model-CatBoost-green)](https://catboost.ai/)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 
-## 📌 Project Overview
+## Project Overview
 
 The used car market in Saudi Arabia is dynamic and often inconsistent. A common issue is **price uncertainty**, especially when sellers leave prices listed as "0" or "Negotiable". This creates inefficiencies and makes it difficult for buyers and sellers to identify a fair market price.
 
@@ -19,7 +19,7 @@ This project builds a **Machine Learning Regression Model** to estimate the fair
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 saudi-used-car-prediction/
@@ -43,7 +43,7 @@ saudi-used-car-prediction/
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 ### 1. Data Cleaning
 
@@ -78,7 +78,7 @@ CatBoost was then optimized using hyperparameter tuning to achieve the best RMSE
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 Evaluated on a separate 20 percent test set.
 
@@ -105,7 +105,7 @@ Upload bar chart image to `images/feature_importance.png`.
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### 1. Clone the Repository
 
@@ -130,7 +130,7 @@ notebooks/Saudi_Car_Price_Analysis.ipynb
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Deployment using Streamlit.
 - Separate models for Economy vs Luxury segments.
