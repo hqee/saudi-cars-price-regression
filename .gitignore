@@ -12,10 +12,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Model artifacts
-*.sav
-*.pkl
-*.bin
 
 # CatBoost metadata folder
 catboost_info/
