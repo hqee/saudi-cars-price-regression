@@ -124,7 +124,7 @@ pip install -r requirements.txt
 Open:
 
 ```
-notebooks/Saudi_Car_Price_Analysis.ipynb
+notebooks/Saudi_Car_Price_Prediction.ipynb
 ```
 
 ---
