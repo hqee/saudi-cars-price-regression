@@ -96,10 +96,9 @@ Upload this plot inside `images/actual_vs_pred.png`.
 
 Top predictors:
 
-1. Year
+1. Car_Age
 2. Engine Size
 3. Make
-4. Mileage
 
 Upload bar chart image to `images/feature_importance.png`.
 
