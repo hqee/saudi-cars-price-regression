@@ -90,7 +90,7 @@ Evaluated on a separate 20 percent test set.
 
 ### Actual vs Predicted
 
-Upload this plot inside `images/actual_vs_pred.png`.
+![Actual vs Predicted](images/actual_vs_pred.png)
 
 ### Feature Importance
 
@@ -100,7 +100,7 @@ Top predictors:
 2. Engine Size
 3. Make
 
-Upload bar chart image to `images/feature_importance.png`.
+![Feature Importance](images/feature_importance.png)
 
 ---
 
