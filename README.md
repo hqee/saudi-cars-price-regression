@@ -139,6 +139,4 @@ notebooks/Saudi_Car_Price_Prediction.ipynb
 
 ## Author
 
-**Haqi Dhiya**
-
-- GitHub: https://github.com/hqee
+**Haqi Dhiya' Firmana** - Github : https://github.com/hqee
