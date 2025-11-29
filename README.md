@@ -136,3 +136,9 @@ notebooks/Saudi_Car_Price_Prediction.ipynb
 - Integrate external data like accident history.
 
 ---
+
+## Author
+
+**Haqi Dhiya**
+
+- GitHub: https://github.com/hqee
